@@ -1,7 +1,7 @@
 package mysql
 
 import (
-	"github.com/go-sql-driver/mysql"
+	"github.com/lpx3f8/mysql"
 
 	"gorm.io/gorm"
 )
