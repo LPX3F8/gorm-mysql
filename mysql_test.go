@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/go-sql-driver/mysql"
+	"github.com/lpx3f8/mysql"
 )
 
 func TestNew(t *testing.T) {

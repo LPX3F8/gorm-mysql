@@ -10,7 +10,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/go-sql-driver/mysql"
+	"github.com/lpx3f8/mysql"
 
 	"gorm.io/gorm"
 	"gorm.io/gorm/callbacks"
