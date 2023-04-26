@@ -4,5 +4,7 @@ github.com/jinzhu/now v1.1.5 h1:/o9tlHleP7gOFmsnYNz3RGnqzefHA47wQpKrrdTIwXQ=
 github.com/jinzhu/now v1.1.5/go.mod h1:d3SSVoowX0Lcu0IBviAWJpolVfI5UJVZZ7cO71lE/z8=
 github.com/lpx3f8/mysql v1.0.0 h1:m87HrjNnjBookMELuPb+kgNdzlkI+yqtTaeuvHx9zi0=
 github.com/lpx3f8/mysql v1.0.0/go.mod h1:Q7nIbnnDNP/Dunb7zb8FJysbho6FuM6k6g1w8KR78K8=
+github.com/lpx3f8/mysql v1.0.5 h1:Q72ht+0d/uLmA5dDyomX+FIq9HtVjGynv5uZxXvET5k=
+github.com/lpx3f8/mysql v1.0.5/go.mod h1:Q7nIbnnDNP/Dunb7zb8FJysbho6FuM6k6g1w8KR78K8=
 gorm.io/gorm v1.24.7-0.20230306060331-85eaf9eeda11 h1:9qNbmu21nNThCNnF5i2R3kw2aL27U8ZwbzccNjOmW0g=
 gorm.io/gorm v1.24.7-0.20230306060331-85eaf9eeda11/go.mod h1:L4uxeKpfBml98NYqVqwAdmV1a2nBtAec/cf3fpucW/k=
